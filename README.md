@@ -1,6 +1,5 @@
 # An Investigation into Bias and Data Representativeness in Online Datasets
 A thesis into highlighting bias within online datasets which feature protected characteristics.
-
 (By Charmaine Barker at Manchester Metropolitan University)
 ---
 This GitHub repository showcases the python notebooks used to achieve the results seen in the thesis.
