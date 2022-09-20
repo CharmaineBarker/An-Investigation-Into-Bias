@@ -1,2 +1,2 @@
-# An-Investigation-Into-Bias
+# An Investigation Into Bias
 My masters thesis...
