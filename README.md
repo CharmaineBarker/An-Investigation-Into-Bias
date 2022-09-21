@@ -30,3 +30,6 @@ The files are as follows:
 13. AdultDecisionTreePartitioned.ipynb - partitioning the Adult Income dataset by protected category to highlight possible bias
 14. BankDecisionTreePartitioned.ipynb - partitioning the Bank dataset by protected category to highlight possible bias
 15. COMPASDecisionTreePartitioned.ipynb - partitioning the COMPAS dataset by protected category to highlight possible bias
+
+## Extra
+16. COMPASDecisionTreeThreeCategories.ipynb - the baseline decision tree before the medium and high risk groups were joined together
