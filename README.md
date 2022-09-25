@@ -33,3 +33,5 @@ The files are as follows:
 
 ## Extra
 16. COMPASDecisionTreeThreeCategories.ipynb - the baseline decision tree before the medium and high risk groups were joined together
+
+(Note that only new sections of code between tests have been commented.)
