@@ -7,9 +7,9 @@ This GitHub repository showcases the python notebooks used to achieve the result
 The files are as follows:
 
 ## Exploratory Data Analysis
-1. AdultInitial.ipynb - EDA into the Adult Income dataset (including plots and hypothesis testing)
-2. BankInitial.ipynb - EDA into the Bank dataset (including plots and hypothesis testing)
-3. COMPASInitial.ipynb -EDA into the COMPAS dataset (including plots and hypothesis testing)
+1. InitialAdult.ipynb - EDA into the Adult Income dataset (including plots and hypothesis testing)
+2. InitialBank.ipynb - EDA into the Bank dataset (including plots and hypothesis testing)
+3. InitialCOMPAS.ipynb -EDA into the COMPAS dataset (including plots and hypothesis testing)
 
 ## Applying the full range of models
 4. AdultAllModels.ipynb - the application of the full range of models to the Adult Income dataset
